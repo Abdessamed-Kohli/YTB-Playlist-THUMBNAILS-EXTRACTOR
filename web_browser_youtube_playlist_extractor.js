@@ -2,7 +2,7 @@
 // Degree : Master Degree (Info Security), USTHB Algiers, Algeria
 // Source Code Name : 'web_browser_youtube_playlist_extractor'
 // Programing Language : JS
-// Source Code Description : Demo
+// Source Code Description : 
     // To Run it : Open the Youtube playlist you want, open your browser Dev Tools Console and execute this JS script
     // The Result : you will see 2 outputs : videos_titles_list + videos_thumbnails_urls
 // Source Code Version : 1.0
